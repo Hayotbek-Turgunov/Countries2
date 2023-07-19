@@ -148,6 +148,10 @@ a{
 .site-header-theme-toggler-inner {
   display: flex;
   align-items: center;
+
+}
+.site-header-toggle-icon{
+  /* color: var(--text-color); */
 }
 .site-header-theme-toggler-text {
   margin-left: 8px;
